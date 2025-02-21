@@ -1,2 +1,2 @@
 # bird-species-classification-py
-Классификация изображений птиц по видам
+Bird species image classification tool for environmental monitoring platform
