@@ -6,7 +6,9 @@
 
 **Automated species identification for camera trap networks**  
 *A deep learning solution to transform wilderness monitoring through real-time bird classification and migration pattern analysis* 
-
+***
+![изображение](https://github.com/user-attachments/assets/b99a7577-b503-486a-b332-12ccc0655101)
+***
 ## 🌍 Why It Matters  
 Climate change has disrupted 57% of known bird migration routes ([National Audubon Society](https://www.audubon.org/)). This system empowers environmental agencies to:  
 - **Detect early warning signs** of ecosystem imbalance through species presence/absence  
