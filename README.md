@@ -34,7 +34,7 @@ Climate change has disrupted 57% of known bird migration routes ([National Audub
 git clone https://github.com/berberberk/bird-species-classification-py.git
 cd bird-species-classification-py
 ```
-1. Install dependencies with Poetry:
+2. Install dependencies with Poetry:
 ```bash
 poetry install
 ```
