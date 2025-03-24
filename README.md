@@ -45,7 +45,8 @@ bird-species-classification/
 ├── models/                                   # Trained models
 │   ├── baseline_model.keras
 │   ├── dropout_model.keras
-│   └── enet_model.keras
+│   ├── enet_model.keras
+│   └── vit_model.keras
 ├── notebooks/                                # Jupyter notebooks
 │   ├── bird-species-classification.ipynb
 │   └── bird-species-classification-v25.ipynb
